@@ -12,15 +12,13 @@ _Be welcoming_. ausglam.space is a community that welcomes and supports people o
 
 _Be respectful_. Our community comes from a range of backgrounds and experience levels. Listen and support others to learn. Remember that everyone has their own field of expertise.
 
-_Be kind_. Be careful in the words that you choose. Do not insult or put down other tooters. Endeavour to make your language inclusive.
+_Be kind_. Be careful in the words that you choose. Do not insult or put down other members. Endeavour to make your language inclusive.
 
-_Be forgiving_. People sometimes make mistakes. Please assume that tooters and admins are acting with the best intentions. If you choose to engage with them regarding something you feel is inappropriate or unfair, aim to be diplomatic and forgiving.
+_Be forgiving_. People sometimes make mistakes. Please assume that members and moderators are acting with the best intentions. If you choose to engage with them regarding something you feel is inappropriate or unfair, aim to be diplomatic and forgiving.
 
-_Let us know_. If you’re not sure about something or have a concern, feel free to ask @hugh or report an abusive user.
+_Let us know_. If you’re not sure about something or have a concern, feel free to ask @hugh or @saera. If you notice an abusive user please report it.
 
-_Be nice or choose another instance_.
-
-ausglam.space is dedicated to providing an enjoyable, safe, and harassment-free experience for everyone at our events and in our spaces. We do not tolerate harassment or discrimination of community members in any form. Tooters violating these rules may be cautioned, silenced or suspended from ausglam.space.
+_Be nice or choose another instance_. ausglam.space is dedicated to providing an enjoyable, safe, and harassment-free experience for everyone. We do not tolerate harassment or discrimination of members in any form. Accounts violating these rules may be cautioned, silenced or blocked from ausglam.space and may not be given a warning or notice.
 
 ## Harassment
 
@@ -38,6 +36,6 @@ Sometimes a comment one person thinks is innocuous is offensive to someone else.
 
 If we ask participants to stop any harassing behaviour they are expected to comply immediately. Any ausglam.space member can issue a warning to a participant that their behaviour violates the community’s anti-harassment policy.
 
-If a member engages in harassing behaviour, the admins may take any action they deem appropriate, including warning the offender, silencing them, or in extreme cases, banning them from ausglam.space.
+If a member engages in harassing behaviour, the moderators may take any action they deem appropriate, including warning the offender, silencing them, or in extreme cases, banning them from ausglam.space with or without notice.
 
 These rules are based on the newCardigan Code of Conduct. You should join them too :-)
